@@ -4,10 +4,35 @@ template: "page"
 socialImage: "/media/image-2.jpg"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+### 自己紹介
+PHPとGoを書いてるエンジニア
+ディレクターからスクラムマスター、エンジニアまで幅広くやります。
+一応、認定スクラムマスターの資格も持っています。
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
+趣味でサウナブログ「Sauna Hacker」を運営中
+たまにサウナ駆動開発イベント「サウナdeもくもく会」を開催してます。
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
+* [Sauna Hacker](https://sauna-hacker.com/)
+* [サウナグッズ販売中](https://suzuri.jp/suicabar21?sort=sales)
+* [サウナイベント募集ページ](https://sauna-hackers.connpass.com/)
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+
+### 使用技術
+* Go
+* PHP（Laravel / CakePHP）
+* MySQL
+* Amazon Web Service
+    * EC2 / ECS
+    * AWS Lambda / Step Functions
+    * Elastic Search Service
+
+### Strength Finder
+1. 着想
+2. 収集心
+3. 最上思考
+4. アレンジ
+5. ポジティブ
+
+### 16personalities
+INTP
+[What is _INTP](https://www.16personalities.com/ja/intp%E5%9E%8B%E3%81%AE%E6%80%A7%E6%A0%BC)

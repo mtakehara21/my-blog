@@ -3,7 +3,7 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Hard Code in My Memomry',
+  title: 'Hard Code in my memory',
   subtitle: 'This blog is my daily record of working as a system engineer.',
   copyright: '© All rights reserved.',
   disqusShortname: '',

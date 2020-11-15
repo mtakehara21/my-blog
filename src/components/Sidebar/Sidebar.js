@@ -17,6 +17,7 @@ const Sidebar = ({ isIndex }: Props) => {
   return (
     <div className={styles['sidebar']}>
       <div className={styles['sidebar__inner']}>
+        <h1 class="blog-title" >Hard Code in my memory</h1>
         <Author author={author} isIndex={isIndex} />
         <Menu menu={menu} />
         <Contacts contacts={author.contacts} />

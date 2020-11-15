@@ -4,7 +4,7 @@ date: "2020-11-15T22:40:32.169Z"
 template: "post"
 draft: false
 slug: "my-frist-article"
-category: "Typography"
+category: "Dialy"
 tags:
   - "Design"
   - "Typography"
