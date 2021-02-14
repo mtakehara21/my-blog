@@ -2,7 +2,7 @@
 title: this is my first article
 date: "2020-11-15T22:40:32.169Z"
 template: "post"
-draft: false
+draft: true
 slug: "my-frist-article"
 category: "Dialy"
 tags:
