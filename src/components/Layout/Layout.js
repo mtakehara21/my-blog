@@ -3,7 +3,7 @@ import React from 'react';
 import Helmet from 'react-helmet';
 import type { Node as ReactNode } from 'react';
 import { useSiteMetadata } from '../../hooks';
-import styles from './Layout.module.scss';
+import * as styles from './Layout.module.scss';
 
 type Props = {
   children: ReactNode,
@@ -21,9 +21,10 @@ const Layout = ({
   const { author, url } = useSiteMetadata();
   const metaImage = socialImage || author.photo;
   const metaImageUrl = url + metaImage;
+  const className = styles ? styles.layout : "";
 
   return (
-    <div className={styles.layout}>
+    <div className={className}>
       <Helmet>
         <html lang="en" />
         <title>{title}</title>

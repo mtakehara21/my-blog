@@ -215,6 +215,13 @@ module.exports = {
         tracesSampleRate: 1
       }
     },
+    {
+      resolve: `gatsby-plugin-canonical-urls`,
+      options: {
+        siteUrl: `https://sauna-addict.com`,
+        stripQueryString: true,
+      },
+    },
     'gatsby-plugin-flow',
     'gatsby-plugin-optimize-svgs'
   ]
